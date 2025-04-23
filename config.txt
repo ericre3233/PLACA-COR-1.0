@@ -1,0 +1,5 @@
+tempo_espera_inicial=1
+tempo_espera=3
+tempo_espera_pagedown=0
+tempo_espera_ctrl_a=0
+tempo_espera_ctrl_c=0
